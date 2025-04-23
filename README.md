@@ -31,8 +31,4 @@ The project consists of several functions:
 - handle_upload: Handles image uploads.
 - create_interface: Creates the user interface.
 
-Contributing
-Contributions are welcome! If you'd like to improve the project, please fork the repository and submit a pull request.
 
-License
-This project is licensed under the MIT License. See LICENSE for details.
